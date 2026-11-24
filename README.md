@@ -91,8 +91,8 @@ MFC_SEM1_PROJECT/
 
 ## Author
 
-- **Name:** _Your Name_
-- **Roll No.:** _Your Roll Number_
+- **Name:** Dwadasi Venkata Sri Sai Kumar
+- **Roll No.:** 26MCAP101N007
 - **Course:** Mathematics for Computing, MRIIRS
 
 ## License
