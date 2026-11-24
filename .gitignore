@@ -1,0 +1,29 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*~
+
+# MATLAB data and compiled files
+*.mat
+*.mex*
+*.mlappinstall
+*.mltbx
+
+# Simulink cache and generated code
+slprj/
+*.slxc
+sccprj/
+codegen/
+
+# MATLAB Drive / project caches
+resources/project/
+.matlab/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
